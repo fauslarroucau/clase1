@@ -1,1 +1,1 @@
-### Este es el repositorio de Faustino
+# Este es el repositorio de Faustino
